@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" data-provider-thread-count="4">
+  <test name="Test">
+    <classes>
+      <class name="com.hackathon.project.TetNG"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
