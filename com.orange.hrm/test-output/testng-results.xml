@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="20" passed="20" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-26T11:06:24 IST" name="Suite" finished-at="2022-03-26T11:06:41 IST" duration-ms="17198">
+    <groups>
+    </groups>
+    <test started-at="2022-03-26T11:06:24 IST" name="Test" finished-at="2022-03-26T11:06:41 IST" duration-ms="17198">
+      <class name="com.orange.hrm.test.Pages.LoginPageTest">
+        <test-method signature="checkUserIsOnOrangeHRM()[pri:1, instance:com.orange.hrm.test.Pages.LoginPageTest@69997e9d]" started-at="2022-03-26T11:06:24 IST" name="checkUserIsOnOrangeHRM" finished-at="2022-03-26T11:06:36 IST" duration-ms="11929" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkUserIsOnOrangeHRM -->
+        <test-method signature="checkUserNameInputIsDisplayed()[pri:2, instance:com.orange.hrm.test.Pages.LoginPageTest@69997e9d]" started-at="2022-03-26T11:06:36 IST" name="checkUserNameInputIsDisplayed" finished-at="2022-03-26T11:06:36 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkUserNameInputIsDisplayed -->
+        <test-method signature="checkUserNameInputIsClickable()[pri:3, instance:com.orange.hrm.test.Pages.LoginPageTest@69997e9d]" started-at="2022-03-26T11:06:36 IST" name="checkUserNameInputIsClickable" finished-at="2022-03-26T11:06:36 IST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkUserNameInputIsClickable -->
+        <test-method signature="checkUserNameInputIsWritable()[pri:4, instance:com.orange.hrm.test.Pages.LoginPageTest@69997e9d]" started-at="2022-03-26T11:06:36 IST" name="checkUserNameInputIsWritable" finished-at="2022-03-26T11:06:36 IST" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkUserNameInputIsWritable -->
+        <test-method signature="checkUserPasswordInputIsDisplayed()[pri:5, instance:com.orange.hrm.test.Pages.LoginPageTest@69997e9d]" started-at="2022-03-26T11:06:36 IST" name="checkUserPasswordInputIsDisplayed" finished-at="2022-03-26T11:06:36 IST" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkUserPasswordInputIsDisplayed -->
+        <test-method signature="checkUserPasswordInputIsClickable()[pri:6, instance:com.orange.hrm.test.Pages.LoginPageTest@69997e9d]" started-at="2022-03-26T11:06:36 IST" name="checkUserPasswordInputIsClickable" finished-at="2022-03-26T11:06:36 IST" duration-ms="123" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkUserPasswordInputIsClickable -->
+        <test-method signature="checkUserPasswordInputIsWritable()[pri:7, instance:com.orange.hrm.test.Pages.LoginPageTest@69997e9d]" started-at="2022-03-26T11:06:36 IST" name="checkUserPasswordInputIsWritable" finished-at="2022-03-26T11:06:36 IST" duration-ms="102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkUserPasswordInputIsWritable -->
+        <test-method signature="checkLoginBtnIsDisplayed()[pri:8, instance:com.orange.hrm.test.Pages.LoginPageTest@69997e9d]" started-at="2022-03-26T11:06:36 IST" name="checkLoginBtnIsDisplayed" finished-at="2022-03-26T11:06:36 IST" duration-ms="70" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLoginBtnIsDisplayed -->
+        <test-method signature="checkLoginBtnIsClickable()[pri:9, instance:com.orange.hrm.test.Pages.LoginPageTest@69997e9d]" started-at="2022-03-26T11:06:36 IST" name="checkLoginBtnIsClickable" finished-at="2022-03-26T11:06:40 IST" duration-ms="3765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkLoginBtnIsClickable -->
+      </class> <!-- com.orange.hrm.test.Pages.LoginPageTest -->
+      <class name="com.orange.hrm.test.Pages.UserLandingPageTest">
+        <test-method signature="checktitleIsDisplayed()[pri:1, instance:com.orange.hrm.test.Pages.UserLandingPageTest@7e5afaa6]" started-at="2022-03-26T11:06:40 IST" name="checktitleIsDisplayed" finished-at="2022-03-26T11:06:40 IST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checktitleIsDisplayed -->
+        <test-method signature="checkUserNameIsDisplayed()[pri:2, instance:com.orange.hrm.test.Pages.UserLandingPageTest@7e5afaa6]" started-at="2022-03-26T11:06:40 IST" name="checkUserNameIsDisplayed" finished-at="2022-03-26T11:06:40 IST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkUserNameIsDisplayed -->
+        <test-method signature="checkadminMenuDisplayed()[pri:3, instance:com.orange.hrm.test.Pages.UserLandingPageTest@7e5afaa6]" started-at="2022-03-26T11:06:40 IST" name="checkadminMenuDisplayed" finished-at="2022-03-26T11:06:40 IST" duration-ms="66" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkadminMenuDisplayed -->
+        <test-method signature="checkpimMenuDisplyed()[pri:4, instance:com.orange.hrm.test.Pages.UserLandingPageTest@7e5afaa6]" started-at="2022-03-26T11:06:40 IST" name="checkpimMenuDisplyed" finished-at="2022-03-26T11:06:40 IST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkpimMenuDisplyed -->
+        <test-method signature="checkTimeMenuIsDisplayed()[pri:5, instance:com.orange.hrm.test.Pages.UserLandingPageTest@7e5afaa6]" started-at="2022-03-26T11:06:40 IST" name="checkTimeMenuIsDisplayed" finished-at="2022-03-26T11:06:41 IST" duration-ms="64" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkTimeMenuIsDisplayed -->
+        <test-method signature="checkrecrutmentMenuIsDisplayed()[pri:6, instance:com.orange.hrm.test.Pages.UserLandingPageTest@7e5afaa6]" started-at="2022-03-26T11:06:41 IST" name="checkrecrutmentMenuIsDisplayed" finished-at="2022-03-26T11:06:41 IST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkrecrutmentMenuIsDisplayed -->
+        <test-method signature="checkmyInfoMenuDisplyed()[pri:7, instance:com.orange.hrm.test.Pages.UserLandingPageTest@7e5afaa6]" started-at="2022-03-26T11:06:41 IST" name="checkmyInfoMenuDisplyed" finished-at="2022-03-26T11:06:41 IST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkmyInfoMenuDisplyed -->
+        <test-method signature="checkperformanceMenuIsDisplayed()[pri:8, instance:com.orange.hrm.test.Pages.UserLandingPageTest@7e5afaa6]" started-at="2022-03-26T11:06:41 IST" name="checkperformanceMenuIsDisplayed" finished-at="2022-03-26T11:06:41 IST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkperformanceMenuIsDisplayed -->
+        <test-method signature="checkdirectoryMenuIsDisplayed()[pri:9, instance:com.orange.hrm.test.Pages.UserLandingPageTest@7e5afaa6]" started-at="2022-03-26T11:06:41 IST" name="checkdirectoryMenuIsDisplayed" finished-at="2022-03-26T11:06:41 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkdirectoryMenuIsDisplayed -->
+        <test-method signature="checkmaintanceMenuIsDisplayed()[pri:10, instance:com.orange.hrm.test.Pages.UserLandingPageTest@7e5afaa6]" started-at="2022-03-26T11:06:41 IST" name="checkmaintanceMenuIsDisplayed" finished-at="2022-03-26T11:06:41 IST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkmaintanceMenuIsDisplayed -->
+        <test-method signature="checkbuzzMenuIsDisplayed()[pri:11, instance:com.orange.hrm.test.Pages.UserLandingPageTest@7e5afaa6]" started-at="2022-03-26T11:06:41 IST" name="checkbuzzMenuIsDisplayed" finished-at="2022-03-26T11:06:41 IST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkbuzzMenuIsDisplayed -->
+      </class> <!-- com.orange.hrm.test.Pages.UserLandingPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
